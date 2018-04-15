@@ -1,0 +1,53 @@
+﻿@model _1.UI.Models.DoOrderModel
+
+@{
+    ViewBag.Title = "DoCalculation";
+}
+
+<h2>סיכום פרטי ההזמנה שלך</h2>
+
+<form action="/Orders/CreateOrderByCostumer" method="post">
+    <div>
+        <img src="~/Content/Images/@Model.carPicture" style="height:100px; width:100px" />
+    </div>
+    <div>
+        @Html.Label("יצרן")
+        @Html.DisplayFor(modelItem => Model.carManufacture)
+    </div>
+    <div>
+        @Html.Label("דגם")
+        @Html.DisplayFor(modelItem => Model.carModel)
+    </div>
+    <div>
+        @Html.Label("תאריך יציאה")
+        @Html.DisplayFor(modelItem => Model.Taking_Date)
+    </div>
+    <div>
+        @Html.Label("תאריך חזרה")
+        @Html.DisplayFor(modelItem => Model.Return_Date)
+    </div>
+    <div>
+        @Html.Label("עלות יום איחור")
+        @Html.DisplayFor(modelItem => Model.Day_late)
+    </div>
+    <div>
+        @Html.Label("סך הכל לתשלום")
+        @Html.DisplayFor(modelItem => Model.total)
+    </div>
+    <div>
+        <div>
+            <input type="button" value="אישור הזמנה " onclick="ConfirmOrder();" class="btn btn-default" />
+            <h1 id="res" style="color:darkred"></h1>
+        </div>
+    </div>
+
+</form>
+
+
+@section Scripts {
+
+    <script src="~/Code/Sections_scripts/DoCalculationScript.js"></script>
+
+}
+
+

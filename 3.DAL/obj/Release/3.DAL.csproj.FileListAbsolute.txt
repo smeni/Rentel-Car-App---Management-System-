@@ -1,0 +1,10 @@
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\3.DAL.dll.config
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\3.DAL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\3.DAL.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\4.Entities.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\EntityFramework.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\4.Entities.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Release\EntityFramework.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\obj\Release\3.DAL.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\obj\Release\3.DAL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\obj\Release\3.DAL.pdb

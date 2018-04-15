@@ -1,0 +1,32 @@
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\2.BL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\2.BL.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\3.DAL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\3.DAL.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\3.DAL.dll.config
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\obj\Debug\2.BL.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\obj\Debug\2.BL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\2.BL\obj\Debug\2.BL.pdb
+F:\ProjectRentCAr\2.BL\bin\Debug\2.BL.dll
+F:\ProjectRentCAr\2.BL\bin\Debug\2.BL.pdb
+F:\ProjectRentCAr\2.BL\bin\Debug\3.DAL.dll
+F:\ProjectRentCAr\2.BL\bin\Debug\4.Entities.dll
+F:\ProjectRentCAr\2.BL\bin\Debug\3.DAL.pdb
+F:\ProjectRentCAr\2.BL\bin\Debug\3.DAL.dll.config
+F:\ProjectRentCAr\2.BL\bin\Debug\4.Entities.pdb
+F:\ProjectRentCAr\2.BL\obj\Debug\2.BL.csprojResolveAssemblyReference.cache
+F:\ProjectRentCAr\2.BL\obj\Debug\2.BL.dll
+F:\ProjectRentCAr\2.BL\obj\Debug\2.BL.pdb
+F:\ProjectRentCAr\2.BL\obj\Debug\2.BL.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\2.BL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\2.BL.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\3.DAL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\3.DAL.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\3.DAL.dll.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\obj\Debug\2.BL.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\obj\Debug\2.BL.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\obj\Debug\2.BL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\2.BL\obj\Debug\2.BL.pdb

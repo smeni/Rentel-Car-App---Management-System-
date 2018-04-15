@@ -1,0 +1,32 @@
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.dll.config
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\EntityFramework.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\bin\Debug\EntityFramework.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.pdb
+F:\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.csprojResolveAssemblyReference.cache
+F:\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.dll
+F:\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.pdb
+F:\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.dll.config
+F:\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.dll
+F:\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.pdb
+F:\ProjectRentCAr\3.DAL\bin\Debug\4.Entities.dll
+F:\ProjectRentCAr\3.DAL\bin\Debug\EntityFramework.dll
+F:\ProjectRentCAr\3.DAL\bin\Debug\4.Entities.pdb
+F:\ProjectRentCAr\3.DAL\bin\Debug\EntityFramework.xml
+F:\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.dll.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\3.DAL.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\EntityFramework.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\bin\Debug\EntityFramework.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\3.DAL\obj\Debug\3.DAL.pdb

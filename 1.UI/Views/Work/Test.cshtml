@@ -1,0 +1,64 @@
+﻿@model IEnumerable<_4.Entities.Car>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Mileage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Picture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsRepaired)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsAvailable)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.C_License_number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BranchID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActiv)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mileage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Picture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsRepaired)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.C_License_number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BranchID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActiv)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CarID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CarID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CarID })
+            </td>
+        </tr>
+    }
+
+</table>

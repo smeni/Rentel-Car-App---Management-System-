@@ -1,0 +1,13 @@
+﻿@model _1.UI.Models.manufacturrerViewModel
+
+
+<div class="form-group">
+    @Html.LabelFor(model => model.car.Cartyp.Manufacturer, htmlAttributes: new { @class = "control-label col-md-2" })
+    <div class="col-md-10">
+        @Html.DropDownListFor(x => x.car.CarID, Model.Manufacturer, new { @class = "form-control", test = "111" })
+
+        @Html.ValidationMessageFor(model => model.car.CarID, "", new { @class = "text-danger" })
+    </div>
+</div>
+
+

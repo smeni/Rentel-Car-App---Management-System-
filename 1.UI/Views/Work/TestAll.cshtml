@@ -1,0 +1,78 @@
+﻿@model _1.UI.Models.manufacturrerViewModel
+@using _1.UI.Models
+@using _4.Entities
+
+
+@{
+    ViewBag.Title = "TestAll";
+}
+
+<h2> סקרן לראות את כל הרכבים שלנו ?   <a id="getCars" onclick="TTTT();">לחץ כאן</a>  </h2>
+<div>
+    <hr />
+    <h4> אפשרויות סינון</h4>
+    <h6>  בחר תאריך יציאה</h6>
+    <span>
+        <input type="date" id="dateStart" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+    </span>
+
+    <h6>  בחר תאריך חזרה</h6>
+    <span>
+        <input type="date" id="dateEnd" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+    </span>
+    <h6>חיפוש לפי סוג יצרן</h6>
+    <span>
+        @Html.DropDownListFor(x => x.car.Cartyp.Manufacturer, Model.Manufacturer, new { @id = "getManufatur", @class = "form-control", test = "111" })
+        @Html.ValidationMessageFor(model => model.car.Cartyp.Manufacturer, "", new { @class = "text-danger" })
+    </span>
+    <h6>חיפוש לפי דגם</h6>
+    <span>
+        <span>
+            @Html.DropDownListFor(x => x.car.Cartyp.Model, Model.Model, new { @id = "getModel", @class = "form-control", test = "111" })
+            @Html.ValidationMessageFor(model => model.car.Cartyp.Model, "", new { @class = "text-danger" })
+        </span>
+    </span>
+    <h6>חיפוש לפי שנת יצור</h6>
+    <span>
+        <span>
+            @Html.DropDownListFor(x => x.car.Cartyp.Year_of_Manufacturer, Model.YearOfManufacturer, new { @id = "getYear", @class = "form-control", test = "111" })
+            @Html.ValidationMessageFor(model => model.car.Cartyp.Year_of_Manufacturer, "", new { @class = "text-danger" })
+        </span>
+    </span>
+    <span>
+
+    </span>
+
+    <h6>חיפוש לפי סוג הילוכים</h6>
+    <span>
+        <span>גיר אוטומט</span><input type="checkbox" id="Transmission" value="auto" />
+        <span>גיר הילוכים</span><input type="checkbox" id="Transmission" value="manual" />
+    </span>
+
+    <div>
+        <input type="button" id="getCarsByDate" value="סינון" />
+    </div>
+
+
+    <div>
+
+    </div>
+</div>
+<div>
+
+</div>
+
+<div id="container" class="container" style="background-color:chartreuse">
+
+</div>
+
+@section scripts{
+    <script src="~/Code/Sections_scripts/TestAllscrips.js"></script>
+}
+
+
+
+
+
+
+

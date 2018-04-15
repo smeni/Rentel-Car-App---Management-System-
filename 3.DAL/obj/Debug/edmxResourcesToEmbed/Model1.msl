@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="DB_Car_RentalEntities">
+    <EntitySetMapping Name="Branches">
+      <EntityTypeMapping TypeName="Model.Branch">
+        <MappingFragment StoreEntitySet="Branches">
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="BranchID" ColumnName="BranchID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cars">
+      <EntityTypeMapping TypeName="Model.Car">
+        <MappingFragment StoreEntitySet="Cars">
+          <ScalarProperty Name="IsActiv" ColumnName="IsActiv" />
+          <ScalarProperty Name="CarID" ColumnName="CarID" />
+          <ScalarProperty Name="Mileage" ColumnName="Mileage" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="IsRepaired" ColumnName="IsRepaired" />
+          <ScalarProperty Name="IsAvailable" ColumnName="IsAvailable" />
+          <ScalarProperty Name="C_License_number" ColumnName="[License number" />
+          <ScalarProperty Name="BranchID" ColumnName="BranchID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cartyps">
+      <EntityTypeMapping TypeName="Model.Cartyp">
+        <MappingFragment StoreEntitySet="Cartyps">
+          <ScalarProperty Name="IsActiv" ColumnName="IsActiv" />
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="Manufacturer" ColumnName="Manufacturer" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Year_of_Manufacturer" ColumnName="Year of Manufacturer" />
+          <ScalarProperty Name="Transmission" ColumnName="Transmission" />
+          <ScalarProperty Name="Daily_cost" ColumnName="Daily cost" />
+          <ScalarProperty Name="Day_late" ColumnName="Day late" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="Model.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="IsActiv" ColumnName="IsActiv" />
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="Taking_Date" ColumnName="Taking Date" />
+          <ScalarProperty Name="Return_Date" ColumnName="Return Date" />
+          <ScalarProperty Name="Actual_return_Date" ColumnName="Actual return Date" />
+          <ScalarProperty Name="License_number" ColumnName="License number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RolesTypes">
+      <EntityTypeMapping TypeName="Model.RolesType">
+        <MappingFragment StoreEntitySet="RolesTypes">
+          <ScalarProperty Name="IsActiv" ColumnName="IsActiv" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Model.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="IsActiv" ColumnName="IsActiv" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="First_name" ColumnName="First_name" />
+          <ScalarProperty Name="Last_name" ColumnName="Last_name" />
+          <ScalarProperty Name="User_name" ColumnName="User_name" />
+          <ScalarProperty Name="Birth_Date" ColumnName="Birth_Date" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="E_mail" ColumnName="E-mail" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="UserRole" TypeName="Model.UserRole" StoreEntitySet="UserRole">
+      <EndProperty Name="User">
+        <ScalarProperty Name="UserID" ColumnName="UserID" />
+      </EndProperty>
+      <EndProperty Name="RolesType">
+        <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

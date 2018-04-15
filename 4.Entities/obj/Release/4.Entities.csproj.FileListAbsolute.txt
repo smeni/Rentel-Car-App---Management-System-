@@ -1,0 +1,4 @@
+C:\Users\smeni\Desktop\ProjectRentCAr\4.Entities\bin\Release\4.Entities.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\4.Entities\bin\Release\4.Entities.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\4.Entities\obj\Release\4.Entities.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\4.Entities\obj\Release\4.Entities.pdb

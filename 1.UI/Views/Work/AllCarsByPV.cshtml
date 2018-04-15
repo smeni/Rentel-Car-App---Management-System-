@@ -1,0 +1,22 @@
+﻿@model List<_4.Entities.Car>
+@using _4.Entities
+
+
+@foreach (var c in Model)
+{
+    <span hidden="hidden" class="carID">@c.CarID</span>
+            <div><span>יצרן:  </span> @c.Cartyp.Manufacturer</div>
+            <div><span>דגם:   </span> @c.Cartyp.Model</div>
+            <div><span>שנת יצור:   </span> @c.Cartyp.Year_of_Manufacturer</div>
+            <div><img src="~/Content/Images/@c.Picture" style="height:100px; width:100px" /></div>
+            <div>מחיר ליום:<span id="perDay">@c.Cartyp.Daily_cost</span></div>
+            <div>מחיר כולל:<span id="total"></span></div>
+
+            <input type="button" id="getChoice" onclick="GetChoice(@c.CarID)" value="להזמנה" />
+
+            <hr />
+}
+
+
+
+

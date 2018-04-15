@@ -1,0 +1,110 @@
+﻿@model IEnumerable<_1.UI.Models.CarsViewModel>
+
+@{
+    ViewBag.Title = "index";
+}
+
+<h2> @Model.Count() רכבים קיימים</h2>
+
+<p>
+    @Html.ActionLink("הכנס רכב חדש", "Create", "Cars")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Label("תמונה")
+        </th>
+
+        <th>
+            @Html.Label("יצרן")
+        </th>
+        <th>
+            @Html.Label("דגם")
+
+        </th>
+        <th>
+            @Html.Label("שנת יצור")
+
+        </th>
+        <th>
+            @Html.Label("סוג הילוכים")
+
+        </th>
+        <th>
+            @Html.Label("מחיר יומי")
+
+        </th>
+        <th>
+            @Html.Label("עלות יום איחור")
+
+        </th>
+
+        <th>
+            @Html.Label("קילומטרז")
+
+        </th>
+
+        <th>
+            @Html.Label("תקינות")
+
+        </th>
+        <th>
+            @Html.Label("זמין במלאי")
+
+        </th>
+        <th>
+            @Html.Label("מס' רכב")
+
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="~/Content/Images/@item.Picture" style="height:100px; width:100px" />
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year_of_Manufacturer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transmission)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Daily_cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Day_late)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Mileage)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.IsRepaired)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.C_License_number)
+            </td>
+
+            <td>
+                @Html.ActionLink("ערוך נתוני רכב", "Edit", new { id = item.CarID }) |
+                @Html.ActionLink("מחיקה", "DeleteCar", new { id = item.CarID })
+            </td>
+        </tr>
+    }
+
+</table>

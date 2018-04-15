@@ -1,0 +1,245 @@
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\ApplicationInsights.config
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\csc.exe
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\csc.exe.config
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\csc.rsp
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\csi.exe
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\csi.rsp
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\System.AppContext.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\vbc.exe
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\vbc.exe.config
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\vbc.rsp
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\1.UI.dll.config
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\1.UI.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\1.UI.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Antlr3.Runtime.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.Web.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Newtonsoft.Json.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Helpers.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Http.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Mvc.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Optimization.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Razor.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.WebPages.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\WebGrease.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Newtonsoft.Json.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Helpers.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Http.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Mvc.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Optimization.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.Razor.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.WebPages.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Antlr3.Runtime.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\Microsoft.AI.Web.xml
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\obj\Debug\1.UI.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\obj\Debug\1.UI.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\2.BL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\4.Entities.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\3.DAL.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\EntityFramework.dll
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\2.BL.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\4.Entities.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\3.DAL.pdb
+C:\Users\smeni\Desktop\ProjectRentCAr\1.UI\bin\3.DAL.dll.config
+F:\ProjectRentCAr\1.UI\bin\ApplicationInsights.config
+F:\ProjectRentCAr\1.UI\bin\roslyn\csc.exe
+F:\ProjectRentCAr\1.UI\bin\roslyn\csc.exe.config
+F:\ProjectRentCAr\1.UI\bin\roslyn\csc.rsp
+F:\ProjectRentCAr\1.UI\bin\roslyn\csi.exe
+F:\ProjectRentCAr\1.UI\bin\roslyn\csi.rsp
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProjectRentCAr\1.UI\bin\roslyn\System.AppContext.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\System.Collections.Immutable.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\System.IO.FileSystem.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProjectRentCAr\1.UI\bin\roslyn\vbc.exe
+F:\ProjectRentCAr\1.UI\bin\roslyn\vbc.exe.config
+F:\ProjectRentCAr\1.UI\bin\roslyn\vbc.rsp
+F:\ProjectRentCAr\1.UI\bin\roslyn\VBCSCompiler.exe
+F:\ProjectRentCAr\1.UI\bin\roslyn\VBCSCompiler.exe.config
+F:\ProjectRentCAr\1.UI\bin\1.UI.dll.config
+F:\ProjectRentCAr\1.UI\bin\1.UI.dll
+F:\ProjectRentCAr\1.UI\bin\1.UI.pdb
+F:\ProjectRentCAr\1.UI\bin\2.BL.dll
+F:\ProjectRentCAr\1.UI\bin\4.Entities.dll
+F:\ProjectRentCAr\1.UI\bin\Antlr3.Runtime.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.Web.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.WindowsServer.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.ApplicationInsights.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProjectRentCAr\1.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\ProjectRentCAr\1.UI\bin\Newtonsoft.Json.dll
+F:\ProjectRentCAr\1.UI\bin\System.Net.Http.Formatting.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.Helpers.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.Http.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.Http.WebHost.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.Mvc.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.Optimization.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.Razor.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Deployment.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.WebPages.dll
+F:\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Razor.dll
+F:\ProjectRentCAr\1.UI\bin\WebGrease.dll
+F:\ProjectRentCAr\1.UI\bin\3.DAL.dll
+F:\ProjectRentCAr\1.UI\bin\EntityFramework.dll
+F:\ProjectRentCAr\1.UI\bin\2.BL.pdb
+F:\ProjectRentCAr\1.UI\bin\4.Entities.pdb
+F:\ProjectRentCAr\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProjectRentCAr\1.UI\bin\Newtonsoft.Json.xml
+F:\ProjectRentCAr\1.UI\bin\System.Net.Http.Formatting.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.Helpers.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.Http.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.Http.WebHost.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.Mvc.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.Optimization.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.Razor.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.WebPages.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Deployment.xml
+F:\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Razor.xml
+F:\ProjectRentCAr\1.UI\bin\Antlr3.Runtime.pdb
+F:\ProjectRentCAr\1.UI\bin\Microsoft.ApplicationInsights.xml
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.WindowsServer.xml
+F:\ProjectRentCAr\1.UI\bin\Microsoft.AI.Web.xml
+F:\ProjectRentCAr\1.UI\bin\3.DAL.pdb
+F:\ProjectRentCAr\1.UI\bin\3.DAL.dll.config
+F:\ProjectRentCAr\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+F:\ProjectRentCAr\1.UI\obj\Debug\1.UI.dll
+F:\ProjectRentCAr\1.UI\obj\Debug\1.UI.pdb
+F:\ProjectRentCAr\1.UI\obj\Debug\1.UI.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\ApplicationInsights.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\csc.exe
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\csc.exe.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\csc.rsp
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\csi.exe
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\csi.rsp
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\System.AppContext.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\vbc.exe
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\vbc.exe.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\vbc.rsp
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\1.UI.dll.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\1.UI.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\1.UI.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\2.BL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\4.Entities.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Antlr3.Runtime.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.Web.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Newtonsoft.Json.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Helpers.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Http.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Mvc.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Optimization.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Razor.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.WebPages.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\WebGrease.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\3.DAL.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\EntityFramework.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\2.BL.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\4.Entities.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Newtonsoft.Json.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Helpers.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Http.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Mvc.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Optimization.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.Razor.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.WebPages.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Antlr3.Runtime.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\Microsoft.AI.Web.xml
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\3.DAL.pdb
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\bin\3.DAL.dll.config
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\obj\Debug\1.UI.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\obj\Debug\1.UI.dll
+C:\Users\smeni\Desktop\פרוייקטים להצגה\ProjectRentCAr\1.UI\obj\Debug\1.UI.pdb

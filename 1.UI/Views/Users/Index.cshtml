@@ -1,0 +1,70 @@
+﻿@model IEnumerable<_4.Entities.User>
+
+
+@{
+    ViewBag.Title = "UsersOnly";
+}
+
+<h2> @Model.Count() משתמשים קיימים</h2>
+
+<p>
+    @Html.ActionLink("הוסף משתמש", "Create", "Registration")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Label("שם פרטי")
+        </th>
+        <th>
+            @Html.Label("שם משפחה")
+        </th>
+        <th>
+            @Html.Label("שם משתמש")
+        </th>
+        <th>
+            @Html.Label("תאריך לידה")
+        </th>
+        <th>
+            @Html.Label("מגדר")
+        </th>
+        <th>
+            @Html.Label("כתובת דואר אלקטרוני")
+        </th>
+        <th>
+            @Html.Label("סיסמת רישום")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.First_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Last_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Birth_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.E_mail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.ActionLink("עריכת פרטי משתמש", "EditUser", new { id = item.UserID, returnUrl = "/Users/EditUser" }) |
+                @Html.ActionLink("מחיקת משתמש", "DeleteUser", new { id = item.UserID })
+            </td>
+        </tr>
+    }
+
+</table>
